@@ -2,3 +2,6 @@ git init
 
 git status
 
+git commit -m "Message"
+
+git log
