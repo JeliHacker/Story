@@ -7,3 +7,7 @@ git commit -m "Message"
 git log
 
 git add .          // adds all new files
+
+git diff file.txt
+
+git checkout file.txt   // reverses changes to last save
