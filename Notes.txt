@@ -11,3 +11,11 @@ git add .          // adds all new files
 git diff file.txt
 
 git checkout file.txt   // reverses changes to last save
+
+git rm --cache -r .  // removes everything from the staging area 
+
+git branch alien-plot // creates a new branch called alien-plot
+
+git branch // lists branches
+
+
